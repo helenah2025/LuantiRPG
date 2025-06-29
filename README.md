@@ -1,5 +1,5 @@
 # LuantiRPG
-RPG engine mod for Luanti
+RPG engine mod for the [Luanti](https://www.luanti.org/) voxel engine.
 
 ## Introduction
 The intention of this Luanti mod is to provide a complete MMORPG experience for Luanti servers.
